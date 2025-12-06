@@ -1,2 +1,4 @@
 # Reminder-Remix
-A customizable Python reminder app that lets you set precise 24-hour time alerts with your own MP3 audio or video notifications.
+• Built a customizable reminder application with flexible HH:MM:SS input and real-time countdown logic.
+• Integrated OpenCV-based video backgrounds and custom audio alerts using Pygame.
+• Designed a clean and intuitive Tkinter UI with smooth media playback integration.
